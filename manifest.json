@@ -6,7 +6,7 @@
   "name": "TeamSpeak 3 ClientQuery",
   "author": "toix",
   "github": "https://github.com/toix/teamspeak3_StreamController_plugin",
-  "thumbnail": "assets/thumbnail.svg",
+  "thumbnail": "assets/thumbnail.png",
   "descriptions": {
     "en_US": "Control TeamSpeak 3 from StreamController on Linux using the ClientQuery plugin.",
     "de_DE": "Steuere TeamSpeak 3 unter Linux mit StreamController über das ClientQuery-Plugin."
