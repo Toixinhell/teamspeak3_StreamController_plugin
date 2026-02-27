@@ -57,7 +57,7 @@ Use this when you want to test the plugin without packaging it.
    - `API Key`: your TeamSpeak ClientQuery API key
 8. Press the key and verify TeamSpeak reacts.
 
-### Install With Script (Recommended)
+### Manual Install With Script (Recommended)
 
 From this repository, run:
 
