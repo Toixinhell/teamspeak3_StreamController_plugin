@@ -1,0 +1,9 @@
+{
+  "actions": {
+    "toggle_input_mute": "Mikrofon-Stummschaltung umschalten",
+    "toggle_output_mute": "Sound-Stummschaltung umschalten",
+    "switch_channel": "Zu Kanal wechseln",
+    "previous_channel": "Zum vorherigen Kanal wechseln",
+    "raw_command": "Rohen ClientQuery-Befehl senden"
+  }
+}
