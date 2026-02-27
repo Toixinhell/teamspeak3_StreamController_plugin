@@ -1,0 +1,1 @@
+# teamspeak3_StreamController_plugin
