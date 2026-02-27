@@ -1,0 +1,9 @@
+{
+  "actions": {
+    "toggle_input_mute": "Toggle Microphone Mute",
+    "toggle_output_mute": "Toggle Sound Mute",
+    "switch_channel": "Switch To Channel",
+    "previous_channel": "Move To Previous Channel",
+    "raw_command": "Send Raw ClientQuery Command"
+  }
+}

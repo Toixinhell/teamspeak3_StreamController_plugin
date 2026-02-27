@@ -1,0 +1,9 @@
+{
+  "generic": {
+    "copyright": "Copyright (c) 2026 toixinhell",
+    "original-url": "https://github.com/toix/teamspeak3_StreamController_plugin",
+    "license": "MIT",
+    "license-url": "https://opensource.org/license/mit",
+    "description": "TeamSpeak 3 ClientQuery plugin for StreamController."
+  }
+}

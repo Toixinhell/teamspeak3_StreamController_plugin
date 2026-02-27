@@ -1,0 +1,4 @@
+# This plugin has no external pip dependencies.
+# Runtime dependencies (provided by StreamController environment):
+# - PyGObject / gi (Gtk4, Adw)
+# - StreamController plugin API modules (src.backend.*)
