@@ -49,8 +49,8 @@ class TeamSpeakClientQueryPlugin(PluginBase):
                 ActionHolder(
                     plugin_base=self,
                     action_base=action_cls,
-                    action_id=f"{PLUGIN_ID}::{action_key}",
-                    action_name=self.lm.get(f"actions.{action_key}"),
+                    action_id_suffix=action_key,
+                    action_name=self.lm.get(action_key),
                 )
             )
 
